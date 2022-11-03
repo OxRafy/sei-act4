@@ -2,7 +2,7 @@
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/169664551-39020c2e-fa95-483b-916b-c52ce4cb907c.png">
 </p>
 
-# sei Network - ACT 4
+# Sei Network - ACT 4
 
 Official documentation:
 >- [ACT 4 Task](https://www.notion.so/3pgv/All-Seinami-Testnet-Missions-16c0a40320244c24b0bc3f663c0cf00b#826326acb6014c7fb42ed8ca22e3a91b)
@@ -101,7 +101,7 @@ Simpan tx hash dan lakukan screenshot pada explorer tersebut, dan lakukan pengar
 Lakukan pengisian sesuai perintah yang ada di dalam form, semua nya sudah jelas
 Masukan data yang diminta seperti nama, email, username discord, tx hash dan screenshot bukti transaksi
 
-Untuk mengirim screenshot, kalian memerlukan image hosting dan rekomendasi saya untuk memakai image hosting [Imgbb](https://imgbb.com)
+Untuk mengirim screenshot, kalian memerlukan image hosting dan rekomendasi saya untuk memakai image hosting dari [Imgbb](https://imgbb.com)
 
 #### Submit 5 transaksi sekali isi
 
