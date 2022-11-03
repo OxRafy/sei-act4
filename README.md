@@ -94,7 +94,10 @@ Jika pop-up tersebut kalian klik, maka kalian akan di bawa ke explorer yang menu
 
 <img width="720" alt="Explorer" src="https://user-images.githubusercontent.com/73088644/199654287-d2d4b474-5992-4483-968d-60624fe05c64.png">
 
-Simpan tx hash dan lakukan screenshot pada explorer tersebut, dan lakukan pengarsipan sebagai jaga jaga di masa depan
+Simpan tx hash dan lakukan screenshot di trade history seperti ini
+  
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/73088644/199657930-af0b2e7d-51ea-4532-a2f3-377c888fdf65.png">
+
 
 ## Mengisi form
 
@@ -109,7 +112,7 @@ Untuk mengirim 5 transaksi sekali isi, kalian cukup menambahkan koma (,) di seti
 
 Contoh : txhash1, txhash2, txhash3, txhash4, txhash5
 
-Dan untuk gambarnya pun kalian tinggal set album baru di dalam akun image hosting kalian maka semua gambar di dalam album tersebut sudah terarsip ke dalam 1 link
+Dan untuk gambarnya pun kalian bisa pakai screenshot dari Trade History
 
 ## Penutup
 
