@@ -113,7 +113,7 @@ Dan untuk gambarnya pun kalian tinggal set album baru di dalam akun image hostin
 
 ## Penutup
 
-Semoga tutorial ini sudah cukup jelas, jika merasa masih tidak jelas silahkan tanya tanya di discord atau nonton youtube
+Semoga tutorial ini sudah cukup jelas, jika merasa masih kurang atau tidak jelas silahkan tanya tanya di discord atau nonton youtube
 
 Sekian dan Terima kasih
 
