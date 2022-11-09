@@ -94,9 +94,7 @@ Jika pop-up tersebut kalian klik, maka kalian akan di bawa ke explorer yang menu
 
 <img width="720" alt="Explorer" src="https://user-images.githubusercontent.com/73088644/199654287-d2d4b474-5992-4483-968d-60624fe05c64.png">
 
-Simpan tx hash dan lakukan screenshot di trade history seperti ini
-  
-<img width="720" alt="image" src="https://user-images.githubusercontent.com/73088644/199657930-af0b2e7d-51ea-4532-a2f3-377c888fdf65.png">
+Simpan tx hash dan lakukan screenshot pada explorer seperti di atas
 
 
 ## Mengisi form
